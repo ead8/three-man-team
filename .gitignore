@@ -7,3 +7,7 @@
 # Internal docs — not for public commit
 three-man-team-build-brief.md
 INTERNAL-BRIEF.md
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
+branch_structure.json
